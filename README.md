@@ -1,4 +1,4 @@
-# Epicodus Week 2 Day 4 Vote Project
+# Epicodus Week 2 Day 4 Animal Wiki Project
 
 ## Created
 
@@ -6,14 +6,14 @@
 
 ## About
 
-Create a Vote website
+Create an animal wiki website
 
 ## Technologye Used
 
 HTML, CSS, Javascript, jQuery
 
 ## Installation
-Clone from: https://github.com/hisatokawaminami/address-book
+Clone from: https://github.com/hisatokawaminami/animal-wiki
 
 ## Credits
 Hisato Kawaminami
